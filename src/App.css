@@ -1,0 +1,15 @@
+h1,h2{
+    text-align: center;
+}
+form{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px
+}
+
+button{
+    align-self: center;
+    width: fit-content;
+    
+}
